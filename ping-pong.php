@@ -15,6 +15,8 @@
 </head>
 <body>
 	<div class="container">
+		<h3>Ping Pong Test</h3>
+		<hr>
 		<ul>
 			<?php
 				foreach(range($start_number, $end_number) as $number){
